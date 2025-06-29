@@ -1,12 +1,16 @@
 dwm - dynamic window manager
 ============================
-dwm is an extremely fast, small, and dynamic window manager for X.
+dwm is an extremely fast, small, and dynamic window manager for X. This is my fork of it.
+I've added useful patches & keybindings. By default it will use a simple-default-ish colorscheme.
+You can change lots of settings in `config.h`
 
 
 Requirements
 ------------
 In order to build dwm you need the Xlib header files.
 
+I recommend getting my dwmblocks config: https://codeberg.org/arkboi/blocks
+which also requires my .local/bin/statusbar from my dotfiles.
 
 Installation
 ------------
