@@ -1,0 +1,11 @@
+dmenu
+stest
+patches
+*.o
+*.out
+*.a
+*.so
+*.exe
+config.h
+*.orig
+*.rej
